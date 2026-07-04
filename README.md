@@ -1,8 +1,6 @@
-============================================================
+
 FL STUDIO DRUM-KIT SKIN SCRIPT
 Written by @imfabiyoo
-fabiyoo on all streaming platforms, go listen
-============================================================
 
 An automation script designed to customize your FL Studio browser layout via .nfo generation. It handles text coloring alongside continuous graphical mosaic artwork setups.
 
@@ -22,9 +20,8 @@ your-project-folder/
 ├── settings.txt        
 └── image/              <-- Drop your mosaic image here (.jpg or .png)
 
-============================================================
 HOW TO RUN IN TERMINAL
-============================================================
+
 
 1. Open your Terminal (macOS) or Command Prompt (Windows).
 
