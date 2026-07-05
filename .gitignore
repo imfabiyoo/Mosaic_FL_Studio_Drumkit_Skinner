@@ -2,4 +2,8 @@ venv/
 __pycache__/
 .DS_Store
 settings.txt
-image/
+# Ignore all actual files inside the image folder
+app_files/image/*
+
+# BUT do not ignore the hidden placeholder file
+!app_files/image/.gitkeep
